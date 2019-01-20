@@ -6,3 +6,4 @@
 ![dashboard_menu](https://user-images.githubusercontent.com/16123495/51444438-4f2fdc00-1cac-11e9-8cf6-084f6eb0819b.png)
 ![dashboard_pivottable](https://user-images.githubusercontent.com/16123495/51444439-4f2fdc00-1cac-11e9-9299-ecd0046493ec.png)
 ![dashboard_summary](https://user-images.githubusercontent.com/16123495/51444441-4fc87280-1cac-11e9-844f-91a68f2d3eb5.png)
+![](https://user-images.githubusercontent.com/16123495/51444440-4f2fdc00-1cac-11e9-841a-7d3cf41864e4.png)
