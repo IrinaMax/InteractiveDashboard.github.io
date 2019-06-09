@@ -1,5 +1,5 @@
 # InteractiveDashboard.github.io
-This Car Failure dashboard I created using R and flex dashboard package.
+This Car Failure dashboard I created using R and flex dashboard package. You can look full dashboard at
 https://rpubs.com/irinamax10/460856
 
 ![Dashboard](https://rpubs.com/irinamax10/460856)
