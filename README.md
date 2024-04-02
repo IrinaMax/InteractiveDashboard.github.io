@@ -1,6 +1,6 @@
 # InteractiveDashboard.github.io
 This Car Failure dashboard I created using R and flex dashboard package. You can look full dashboard at
-https://rpubs.com/irinamax10/460856
+![https://rpubs.com/irinamax10/460856]
 
 ![Dashboard](https://rpubs.com/irinamax10/460856)
 ![dashboard_bk_view](https://user-images.githubusercontent.com/16123495/51444435-4e974580-1cac-11e9-99d4-f2ba83c7fd52.png)
